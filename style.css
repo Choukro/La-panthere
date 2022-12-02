@@ -1052,6 +1052,7 @@ h2 {
 
 blockquote {
     color: #333333;
+    border-left: unset;
 }
 
 blockquote span {
