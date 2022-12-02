@@ -1071,4 +1071,7 @@ blockquote span {
 	.black-background {
 		padding :0;
 	}
+    .scrollToTop {
+        display:none;
+    }
 }
