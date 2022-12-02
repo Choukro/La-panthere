@@ -1044,14 +1044,14 @@ h4 {
 
 /*--------------------------------------------------*/
 /* Proposition code CSS pour améliorer              */ 
-/* le responsive web design pour la version mobile  */                                      */ 
+/* le responsive web design pour la version mobile  */
 /*--------------------------------------------------*/
 h2 {
 	margin: 0 auto;
 }
 
 @media (max-width: 767px){
-    .row.row-social{
+    .row.row-social {
         display: flex;
         flex-direction: row;
         justify-content: center;
