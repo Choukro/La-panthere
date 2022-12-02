@@ -511,8 +511,8 @@ button {
 }
 
 .scrollToTop {
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -526,7 +526,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 14px;
+    font-size: 18px;
     opacity: 1;
 }
 
@@ -781,7 +781,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
