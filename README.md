@@ -1,4 +1,4 @@
-# La Panthère 🐆 : Analyse et amélioration du SEO 
+# La Panthère 🐆 : Optimisation d'un site web existant 
 
 > 🖥️ **Optimisation du référencement SEO de l'agence de web design, La Panthère !**
 
